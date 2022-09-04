@@ -1,7 +1,7 @@
 {
 	"kind": "youtube#playlistItemListResponse",
-	"etag": "5M_jNmtZMyfcvqO186R2XITsjqM",
-	"nextPageToken": "EAAaBlBUOkNBVQ",
+	"etag": "hEVsAoK4pf1DJu6ym8QO-6ninX4",
+	"nextPageToken": "EAAaBlBUOkNESQ",
 	"items": [
 		{
 			"kind": "youtube#playlistItem",
@@ -237,10 +237,2105 @@
 				"videoOwnerChannelTitle": "Chad and JT Go Deep",
 				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
 			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "ZOa7o0I6xpPQR7bOPHyvWpuwzLU",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi42MzYyQ0E2MUE4ODAzQkU5",
+			"snippet": {
+				"publishedAt": "2022-07-24T04:04:46Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Darth Vader #shorts",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ck_89tD4f3o/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ck_89tD4f3o/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ck_89tD4f3o/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 5,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "ck_89tD4f3o"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "xXQv6wfgOV7nCJwWGNSVTHpOfno",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4wMUIwQkI1NEQ1RTFBNTND",
+			"snippet": {
+				"publishedAt": "2022-07-20T17:14:42Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #248 - Strider Wilson and Chris Parr Join (Villain Draft)",
+				"description": "What up stokers! This week we draft our favorite movie villains. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP]. \n\n\n\n\nVisit athelticgreens.com/godeep for a FREE 1 year supply of Vitamin D AND 5 FREE travel packs with your first purchase.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/4C4mRLHPIs8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/4C4mRLHPIs8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/4C4mRLHPIs8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/4C4mRLHPIs8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/4C4mRLHPIs8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 6,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "4C4mRLHPIs8"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "0_NjKuOuXbNcdkhyY2WnmkssZsw",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi43RDFFNUM4NkUwRDhEMjRD",
+			"snippet": {
+				"publishedAt": "2022-07-14T22:00:18Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #247- Kevin Fard \"The Shmole\" Joins",
+				"description": "What up stokers! This week we are joined by our good friend, Kevin Fard aka The Shmole",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/tIqSwp_juVo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/tIqSwp_juVo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/tIqSwp_juVo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/tIqSwp_juVo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/tIqSwp_juVo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 7,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "tIqSwp_juVo"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "0uaD_p_cZ_mO_fs6w-_e0YSAj3s",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi43RkJGOTAwRDhCOEQ1RjIy",
+			"snippet": {
+				"publishedAt": "2022-07-07T16:44:19Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad and JT #246 - Chad and JT",
+				"description": "What up stokers! This week it's Chad and JT \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/PEx8mL0QJUg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/PEx8mL0QJUg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/PEx8mL0QJUg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/PEx8mL0QJUg/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/PEx8mL0QJUg/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 8,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "PEx8mL0QJUg"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "cTg9vJsgde4o-2THvtgFfoh-DBQ",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5EQkEyODM0NTk2MUFEQkYz",
+			"snippet": {
+				"publishedAt": "2022-06-30T00:37:45Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #245 - Strider Wilson and Chris Parr Join (Appetizer Draft)",
+				"description": "What up stokers! This week we're drafting appetizers. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP]. \n\n\n\n\nVisit athelticgreens.com/godeep for a FREE 1 year supply of Vitamin D AND 5 FREE travel packs with your first purchase.\n\n\n\n\nGet up to 20 free meals with purchase plus free shipping on your first box at HelloFresh.com/deep20 and use code deep20!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/fY5l5z3X4n4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/fY5l5z3X4n4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/fY5l5z3X4n4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/fY5l5z3X4n4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/fY5l5z3X4n4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 9,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "fY5l5z3X4n4"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "_kGIWSUieDNtKa8CxnLczMLIWGI",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xODJEMEQ5M0RCMDRGMzcy",
+			"snippet": {
+				"publishedAt": "2022-06-24T01:44:24Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #244 - Annie Lederman Joins",
+				"description": "What up stokers! This week we have the hilarious, Annie Lederman, on the pod. Enjoy!\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].\n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at HelixSleep.com/GODEEP",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/efeyp7fzFx0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/efeyp7fzFx0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/efeyp7fzFx0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/efeyp7fzFx0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/efeyp7fzFx0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 10,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "efeyp7fzFx0"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "AvaSCHs9DUT8zlLIjLEHHH6rb_w",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xMTE0RDU2NTlEMTkxNzZB",
+			"snippet": {
+				"publishedAt": "2022-06-22T00:50:59Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #243 - John Crist Joins",
+				"description": "What up stokers?! This week comedian, John Crist, joins the pod. We get pretty deep hope you like it! \n\n\n\n\n\n\n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].SHOW LESS",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/RsXB4ZYX2FU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/RsXB4ZYX2FU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/RsXB4ZYX2FU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/RsXB4ZYX2FU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/RsXB4ZYX2FU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 11,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "RsXB4ZYX2FU"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "8oaNUPb-fnIBL5C4MjQvYs5oIyM",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4yNkZBOTQyMkYxQkQyMzc2",
+			"snippet": {
+				"publishedAt": "2022-06-08T21:45:26Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #242 - Chad and JT",
+				"description": "What up stokers! This week Chad and JT discuss Chad's trip to Vegas, his part on Barry, and the new TOP GUN! \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Op47lYUxTlo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Op47lYUxTlo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Op47lYUxTlo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Op47lYUxTlo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Op47lYUxTlo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 12,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Op47lYUxTlo"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "409iRPkDURkkV4kym-_AVuZ4M2Q",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi43OTNDNTk0OUNGMDA1MUNG",
+			"snippet": {
+				"publishedAt": "2022-06-01T19:23:29Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #241 - Fahim Anwar Joins",
+				"description": "What up stokers?! This week we got comedian, Fahim Anwar, on the pod. Check out his new special \"Hat Trick\"\n\nHe's hilarious \n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\nAthleticgreens.com/godeep to take ownership over your health and pick up the ultimate daily nutritional insurance!\n\nGet stoked on science! Download Quantified Citizen on Android or iOS",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/4fmZc2sddF8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/4fmZc2sddF8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/4fmZc2sddF8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/4fmZc2sddF8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 13,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "4fmZc2sddF8"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "6NDXso7slDgUs_cVN_z0fkM6Ogg",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi41ODI2RjhGOTVBODI2NDE5",
+			"snippet": {
+				"publishedAt": "2022-05-25T17:46:39Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #240 - Strider Wilson and Chris Parr Join (Animal Draft)",
+				"description": "Stokers! This week we're drafting our top animals! \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at HelixSleep.com/GODEEP",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/OPTUIVjRlQk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/OPTUIVjRlQk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/OPTUIVjRlQk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/OPTUIVjRlQk/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 14,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "OPTUIVjRlQk"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "MLg6MKPOamWMlMaaCNtMTDAjhHI",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi45MTRCQjE3QzVGNDREODIz",
+			"snippet": {
+				"publishedAt": "2022-05-20T21:49:05Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #239 - Strider Wilson Joins",
+				"description": "STOKERS! We got Strider on the pod!\n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Zn1qsOSAUuo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Zn1qsOSAUuo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Zn1qsOSAUuo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Zn1qsOSAUuo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Zn1qsOSAUuo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 15,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Zn1qsOSAUuo"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "UMzazXMCBim_Jz7sy4TpEKSZbBc",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5FRkU3NjdFNDBDMjFBNTlF",
+			"snippet": {
+				"publishedAt": "2022-05-12T17:10:29Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #238 - Joe Marrese Joins",
+				"description": "The big hog is back! We missed the shit out of him! \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/_LGhZhoKzUo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/_LGhZhoKzUo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/_LGhZhoKzUo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/_LGhZhoKzUo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/_LGhZhoKzUo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 16,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "_LGhZhoKzUo"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "tnGUCvAIo6PMhkT-Y_HLhOfPRcU",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xRUU4M0JFMUQ4QTA2MjVB",
+			"snippet": {
+				"publishedAt": "2022-05-04T17:26:31Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #237 - Harland Williams Joins",
+				"description": "What up stokers?! This week we got actor and comedian, Harland Williams, on the pod. He's silly and fast and a fun hang. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at HelixSleep.com/GODEEP\n\n\n\n\nCheck out Titan if you want to aim to become the smartest, wealthiest investor you’ve ever been. Head to titan.com/godeep to get $50 when you invest with Titan.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/PxxZPMVmUU0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/PxxZPMVmUU0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/PxxZPMVmUU0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/PxxZPMVmUU0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/PxxZPMVmUU0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 17,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "PxxZPMVmUU0"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "lb7eDhhkjGPSlsV4fUKzE56LTec",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi44OEI3NUQ0QTlFM0FCOUU4",
+			"snippet": {
+				"publishedAt": "2022-04-27T16:43:16Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #236 - Kevin The Shmole Joins",
+				"description": "This week we got Kevin Fard, aka Daddy, aka the shmole, on the pod.\n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nSign up at Coinbase.com/GODEEP for $10 in free Bitcoin\n\n\n\n\nVisit athleticgreens.com/GODEEP for a FREE 1 year supply of Vitamin D AND 5 FREE travel packs with your first purchase.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/AiQn0UVYMjY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/AiQn0UVYMjY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/AiQn0UVYMjY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/AiQn0UVYMjY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/AiQn0UVYMjY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 18,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "AiQn0UVYMjY"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "RIsygYSyVLZWhibL0uJjYeZejL0",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi40M0Y4MEVDM0MxRTYxRERE",
+			"snippet": {
+				"publishedAt": "2022-04-20T15:25:31Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep with Chad and JT #235 - Chad and JT",
+				"description": "This week it's Chad and JT \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nSign up at Coinbase.com/GODEEP for $10 in free Bitcoin\n\n\n\n\nVisit athleticgreens.com/GODEEP for a FREE 1 year supply of Vitamin D AND 5 FREE travel packs with your first purchase.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mCN_uzPLjO8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mCN_uzPLjO8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mCN_uzPLjO8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/mCN_uzPLjO8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/mCN_uzPLjO8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 19,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "mCN_uzPLjO8"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "S3bHtla7M5rywx6yJYKxrSNNwbA",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5FRkIzNkJFQkQ3RkUwOUY5",
+			"snippet": {
+				"publishedAt": "2022-04-13T16:36:22Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #234 - Strider Wilson and Chris Parr Join (Frontmen Draft)",
+				"description": "Stokers! This week, Strider and Chris, join to draft the top frontmen of all time. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nJoin Talkspace today, and start the journey to happier, healthier relationships. Just visit talkspace.com and get $100 off your first month when you use promo code godeep at sign-up",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/O5y9MkMBxT0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/O5y9MkMBxT0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/O5y9MkMBxT0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/O5y9MkMBxT0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/O5y9MkMBxT0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 20,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "O5y9MkMBxT0"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "p6ahygASKT_xYLNAI4_191Pv_VQ",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4yQjdDRUQyQ0M0MEZCQkEx",
+			"snippet": {
+				"publishedAt": "2022-04-07T00:01:07Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #233 - Strider Wilson Joins",
+				"description": "What up Stokers! Strider joins. We talk Will Smith!\n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].\n\n\n\n\nCheck out out the new audible original Summer In Argyle at audible.com/summerinargyle",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/yq8N4-ULOd8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/yq8N4-ULOd8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/yq8N4-ULOd8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/yq8N4-ULOd8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/yq8N4-ULOd8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 21,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "yq8N4-ULOd8"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "CJFWAX1iIzY3Rb92J3FdMsjVmyY",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xM0YyQUYxQTg5OTgyQ0Y5",
+			"snippet": {
+				"publishedAt": "2022-04-05T17:28:13Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Patreon Clip: Deep Water Review (Spoilers)",
+				"description": "For bonus episodes, check out our patreon at www.patreon.com/chadgoesdeep",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/THkfnRzwkR8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/THkfnRzwkR8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/THkfnRzwkR8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/THkfnRzwkR8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/THkfnRzwkR8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 22,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "THkfnRzwkR8"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "mZxXaJn0S-EQ1U92K3umyWipSLk",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xNkVFQkQwQzlCOTczN0FG",
+			"snippet": {
+				"publishedAt": "2022-03-30T18:30:04Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #231 - Will Forte Joins",
+				"description": "Holy $#!@ Stokers! We got WIll Forte on the pod!\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].\n\nSign up at Coinbase.com/GODEEP for $10 in free Bitcoin\n\nSee omnystudio.com/listener for privacy information",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/7UIh2PttXbU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/7UIh2PttXbU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/7UIh2PttXbU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/7UIh2PttXbU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/7UIh2PttXbU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 23,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "7UIh2PttXbU"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "pJcIED9tas09FpftvGFBS7clN7U",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xQzNEQjU3NzFFNzQ1M0Q0",
+			"snippet": {
+				"publishedAt": "2022-03-28T18:02:25Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Patreon Clip - JT \"The Gimp\" Parr",
+				"description": "For full patreon episodes and to become a patron, go to www.patreon.com/chadgoesdeep",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/UHLoxkPyHjc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/UHLoxkPyHjc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/UHLoxkPyHjc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/UHLoxkPyHjc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/UHLoxkPyHjc/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 24,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "UHLoxkPyHjc"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "CBfL2dOIKsVlDwz0Orix1UEKO2o",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xMUQ5ODk0Q0I0MjZBQjhG",
+			"snippet": {
+				"publishedAt": "2022-03-24T06:27:42Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #231 - Doug Stanhope Joins",
+				"description": "What up stokers?! This week we got the legend, Doug Stanhope.\n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at Helix Sleep.com slash GODEEP.\n\n\n\n\nTry EveryPlate for just $1.79 per meal by going to EveryPlate dot com and entering code GODEEP179\n\n\n\n\nVisit AUDIBLE.com SLASH SUMMER IN ARGYLE",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/nzdh4WNkstE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/nzdh4WNkstE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/nzdh4WNkstE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/nzdh4WNkstE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/nzdh4WNkstE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 25,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "nzdh4WNkstE"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "BDJjs0piLAPotYz7AKUWZGcENkM",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi45NTBGQjA2RDUzMTJFM0VF",
+			"snippet": {
+				"publishedAt": "2022-03-22T23:59:01Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Patreon Clip: Ghosts",
+				"description": "For full patreon episodes and to become a patron, go to www.patreon.com/chadgoesdeep",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/fKbG_GCP-eg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/fKbG_GCP-eg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/fKbG_GCP-eg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/fKbG_GCP-eg/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/fKbG_GCP-eg/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 26,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "fKbG_GCP-eg"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "MuVvCuP2qliQWGX3tWhtXgjWvhA",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4yNDgyN0RCRjQ1QTUxRUMy",
+			"snippet": {
+				"publishedAt": "2022-03-16T08:47:04Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #230 - Chad and JT",
+				"description": "Stokers! It's Chad and JT this week! We talk going to see Bieber and other subjects. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nJoin Talkspace today, and start the journey to happier, healthier relationships. Just visit talkspace.com and get $100 off your first month when you use promo code godeep at sign-up\n\n\n\n\nSign up at Coinbase.com/GODEEP for $10 in free Bitcoin",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Y9_uFbsDDYg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Y9_uFbsDDYg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Y9_uFbsDDYg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Y9_uFbsDDYg/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Y9_uFbsDDYg/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 27,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Y9_uFbsDDYg"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "QdJQlqd2N0gpbMOwkLX535QTkzc",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi42MTk5OTRCREQ5RkNFODZF",
+			"snippet": {
+				"publishedAt": "2022-03-15T20:20:55Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Patreon Bonus Clip: Reincarnation",
+				"description": "For full patreon episodes, go to www.patreon.com/chadgoesdeep",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/svZsq701Al4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/svZsq701Al4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/svZsq701Al4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/svZsq701Al4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/svZsq701Al4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 28,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "svZsq701Al4"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "eQddVzc1Eu2Nc5ts-HwSef9RNIw",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5BNEY4RDc0MzMyNDAyQjAx",
+			"snippet": {
+				"publishedAt": "2022-03-10T05:08:40Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #229 - GaTa Joins",
+				"description": "What's up stokers!? This week we have the rapper, Gata, on. He talks about his life, music, and being on the show \"Dave\". \n\nCheck out tour dates at www.chadgoesdeep.com\n\nCheck out our patreon at www.patreon.com/chadgoesdeep\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].  \n\n\nJust go to shipstation.com, click on the microphone at the top of the page, and type in GODEEP",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/kn2GoWkYBtA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/kn2GoWkYBtA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/kn2GoWkYBtA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/kn2GoWkYBtA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/kn2GoWkYBtA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 29,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "kn2GoWkYBtA"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "LWbGfpWkZjWCnbkjd4szuJPAaXs",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5EQjk2Mzc4OTUzQTQ4NDlB",
+			"snippet": {
+				"publishedAt": "2022-03-05T00:59:57Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #228 - Rachel Wolfson and Mat Edgar Join",
+				"description": "What up stokers?! This week we've got comedians, Rachel Wolfson and Mat Edgar, we talk about Rachel's work in the new Jackass movie and a bunch of other fun stuff! \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].     \n\nGo to www.privateinternetaccess.com/GoingDeep and get 3 years + 4 months free for only $1.98 per month (83% OFF) with a 30 day money back guarantee\n\nTo find your perfect sofa, check out Allform.com slash godeep",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/lw0YXFPKOUM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/lw0YXFPKOUM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/lw0YXFPKOUM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/lw0YXFPKOUM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/lw0YXFPKOUM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 30,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "lw0YXFPKOUM"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "IDWFvMh2RjvGnieXmeGyl3FyA5E",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4yRjU0MzcwMkYwRkVDNDhC",
+			"snippet": {
+				"publishedAt": "2022-02-23T08:40:42Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad and JT #227 - Strider Wilson and Chris Parr Join (Fast Food Draft)",
+				"description": "What up dudes?! This pod we draft the best fast food restaurants. It's highly competitive. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nFreeze Pipe makes everything from pipes to dab rigs so check out their entire lineup at the freezepipe.com and use code GODEEP for 10% off your first order\n\n\n\n\nHelix is offering up to 200 dollars off all mattress orders AND two free pillows for our listeners at Helix Sleep.com slash GODEEP.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/y-i_J7n9PKE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/y-i_J7n9PKE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/y-i_J7n9PKE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/y-i_J7n9PKE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/y-i_J7n9PKE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 31,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "y-i_J7n9PKE"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "_qJ_EbEXckSfEPo7UnRzA_pZmis",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4wMjVEMzc2NzY2ODVBOERB",
+			"snippet": {
+				"publishedAt": "2022-02-16T08:58:28Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad and JT #226 - Strider Wilson Joins",
+				"description": "What up stokers?! This week we've got Strider Wilson. It's a quick hitter full of brio. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].    \n\n\n\n\nJoin Talkspace today, and start the journey to happier, healthier relationships. Just visit talkspace.com and get $100 off your first month when you use promo code godeep at sign-up\n\n\n\n\nVisit https://www.privateinternetaccess.com/GoingDeep\n\nand get 3 years + 4 months free for only $1.98 per month (83% OFF) with a 30 day money back guarantee",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/B5GDORQWBO8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/B5GDORQWBO8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/B5GDORQWBO8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/B5GDORQWBO8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/B5GDORQWBO8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 32,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "B5GDORQWBO8"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "3HO9PipC-8yaE3j6OksknEybfIk",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5BNEEyNDAyQThDNDA5MEU0",
+			"snippet": {
+				"publishedAt": "2022-02-09T09:29:44Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #225 - Ian Edwards Joins",
+				"description": "What up Stokers?! This week we are joined by one of the funniest people alive, Ian Edwards, enjoy! \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].   \n\n\n\n\nVisit athleticgreens.com Slash godeep for a FREE 1 year supply of Vitamin D AND 5 FREE travel packs with your first purchase.\n\n\n\n\nDownload the DraftKings Sportsbook app now, use promo code GODEEP, and get FIFTY SIX TO ONE ODDS on any NFL team.\n\n\n\n\nJust go to ShipStation.com, use code, GODEEP, to get a 60-day free trial",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/rd6ucENohTQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/rd6ucENohTQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/rd6ucENohTQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/rd6ucENohTQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/rd6ucENohTQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 33,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "rd6ucENohTQ"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "rnISUy6l_6IAJOWqgQqRN4J5yCo",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi40NjI5ODZCQUE5NkRBMDI0",
+			"snippet": {
+				"publishedAt": "2022-02-02T16:22:52Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #234 - David Cross Joins",
+				"description": "What up stokers?! This week we have the legend, David Cross, on the pod. Buy his new special \"I'm From The Future\" at OfficialDavidCross.com \n\n\nSolo listener Q's, beefs, babes, and legends starts at 1:05 \n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].  \n\n\n\n\nGo to Diet Smoke.com, use the promo code “GODEEP” for 20% off\n\n\n\n\nTo find your perfect sofa, check out Allform.com/godeep",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/5uwUq0LiBLI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/5uwUq0LiBLI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/5uwUq0LiBLI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/5uwUq0LiBLI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/5uwUq0LiBLI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 34,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "5uwUq0LiBLI"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "QmehAsS2ViFvnmvKtbe7auezqEY",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi45QUZGQkMzMEZDNTZBREY3",
+			"snippet": {
+				"publishedAt": "2022-01-26T10:20:00Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #223 - Strider Wilson and Chris Parr Join (Video Game Draft)",
+				"description": "What up stokers?! This week we get nostalgic and draft our fav video games of all time! \n\n\n\n\nBuy tix for our show at the Brea Improv on 2/2 \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP]. \n\n\n\n\nVisit talkspace.com and get $100 off your first month when you use promo code godeep at sign-up\n\n\n\n\nDownload the DraftKings Sportsbook app now, use promo code GODEEP, and get FIFTY SIX TO ONE ODDS on any NFL team.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/IQHoeP1pKGs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/IQHoeP1pKGs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/IQHoeP1pKGs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/IQHoeP1pKGs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/IQHoeP1pKGs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 35,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "IQHoeP1pKGs"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "Ke0Sy_l_tIN1wMvza0KCPDeXAnk",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4xNUMzRTJBOEYwRTBDOTBD",
+			"snippet": {
+				"publishedAt": "2022-01-20T04:28:17Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #222 - Strider Wilson Joins",
+				"description": "What up Stokers?! Strider joins us and we talk about a lot of stuff but mostly dongs. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].\n\n\n\n\nGo to ShipStation.com, click on the microphone at the top of the page, and type in GODEEP. \n\n\n\n\nCheck out Private Internet Access VPN at https://www.privateinternetaccess.com/GoingDeep",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mPlgjt7Fmi4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mPlgjt7Fmi4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mPlgjt7Fmi4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/mPlgjt7Fmi4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/mPlgjt7Fmi4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 36,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "mPlgjt7Fmi4"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "S4hR05UGI9dXN72NtgLDDkyzXfE",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi43OTZFNzk1NjVDNDVBRjZG",
+			"snippet": {
+				"publishedAt": "2022-01-12T19:33:00Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #221 - Anders Holm Joins (Part 2)",
+				"description": "What up stokers! It's part 2 of the Anders Holm podcast! We get weirder, deeper, chiller, and more excited. It was a true pleasure having him on.\n\n\n\n\nWe're also gunna start a patreon next week or the week after so if you're craving an extra hour of going deep sign up. \n\n\n\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. That’s 20% off with free shipping at manscaped.com, and use code [GODEEP].\n\n\nDownload the DraftKings Sportsbook app now, use promo code GODEEP, and get FIFTY SIX TO ONE ODDS on any NFL team\n\n\n\nVisit talkspace.com and get $100 off your first month when you use promo code godeep at sign-up.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/_huI2ZXBBxs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/_huI2ZXBBxs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/_huI2ZXBBxs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/_huI2ZXBBxs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/_huI2ZXBBxs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 37,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "_huI2ZXBBxs"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "on_-buEi-StllKq3MKXC8XOtNHA",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4yQUYyOTAwNjkwNDE5QjlE",
+			"snippet": {
+				"publishedAt": "2022-01-06T05:36:04Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep with Chad and JT #220 - Anders Holm Joins (Part 1)",
+				"description": "What up stokers!  Anders Holm joins us on the pod for the second time but for the first time in studio.  It was a serious bro down and we ended up talking for five hours so we broke it up into two pods!  We also have our Manscaped giveaway at the end!\n\nGet 20% Off and Free Shipping with the code [GODEEP] at Manscaped.com. \nThat’s 20% off with free shipping at manscaped.com, and use code [GODEEP]. \n\nVisit ATHLETIC GREENS dot com slash GODEEP for a FREE 1 year supply of Vitamin D AND 5 FREE travel packs with your first purchase.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/hJjE9HkIOWg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/hJjE9HkIOWg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/hJjE9HkIOWg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/hJjE9HkIOWg/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/hJjE9HkIOWg/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 38,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "hJjE9HkIOWg"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "xVxXgl0icTIEGp8HUwwg835M-DU",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5GMzY4RDIwMjU1MkMwOTRB",
+			"snippet": {
+				"publishedAt": "2021-12-29T18:57:15Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #219 - Strider Wilson and Chris Parr Join (Holiday Movie Draft)",
+				"description": "What up stokers! This week the guys draft their favorite holiday movies. There is disagreement over the definition of a holiday movie. Enjoy!\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com- Send in your best manscaping stories to win a prize in next weeks episode! \n\n\n\n\nathleticgreens.com/GODEEP to take ownership over your health and pick up the ultimate daily nutritional insurance!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/h00FyrWJ0OA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/h00FyrWJ0OA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/h00FyrWJ0OA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/h00FyrWJ0OA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/h00FyrWJ0OA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 39,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "h00FyrWJ0OA"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "IKeW_zSGtolo79KoZC_8WNLt2W8",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5FRUEzOUYxQTE4OEIyMTI3",
+			"snippet": {
+				"publishedAt": "2021-12-24T22:36:05Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #218 - Jimmy Tatro Joins",
+				"description": "What up stokers! Merry Christmas! This week we got Jimmy Tatro. \n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com- Send in your best manscaping stories to win a prize in next weeks episode!\n\n\n\n\nGo to rumpl.com and enter code DEEP15 for 15% off your first order\n\n\n\n\nGo to haversupply.com and enter code: GODEEP at checkout for 20% off\n\n\n\n\nGo to DietSmoke.com and use the promo code “GODEEP” for 20% off your order. That’s G-O-D-E-E-P.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/fEa5Bk_HwmY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/fEa5Bk_HwmY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/fEa5Bk_HwmY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/fEa5Bk_HwmY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/fEa5Bk_HwmY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 40,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "fEa5Bk_HwmY"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "luh2QULvBQclTmzyAm8hTX64JU8",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi43RjgyNkZCNjkwMkZDMzcz",
+			"snippet": {
+				"publishedAt": "2021-12-16T00:13:19Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #217 - Brad Fuller Joins",
+				"description": "What up stokers! This week we got our legend mentor Brad Fuller on the pod!\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com- Send in your best manscaping stories to win a prize in next weeks episode!\n\n\n\n\nIf you’re not sure where to start with sports betting, start with BetQL Daily, presented by FanDuel.\n\n\n\n\nJust visit Talk Space Dot Com and get $100 off your first month when you use promo code go deep at sign-up.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/FuGBmzASkgI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/FuGBmzASkgI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/FuGBmzASkgI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/FuGBmzASkgI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/FuGBmzASkgI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 41,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "FuGBmzASkgI"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "_EGQtkN3SR13jBNnW1AyTQT--xQ",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi42ODgwQ0RBNTY1OTRERDQy",
+			"snippet": {
+				"publishedAt": "2021-12-08T19:59:32Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad And JT #216 - Strider Wilson and Chris Parr Join",
+				"description": "What up stokers! Anxiety is high this week as the guys draft their favorite rom coms of all time! \n\n\n\n\nathleticgreens.com/GODEEP to take ownership over your health and pick up the ultimate daily nutritional insurance!\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com\n\n\n\n\nGo to rumpl.com and enter code DEEP15 for 15% off your first order\n\n\n\n\nGo to liquiddeath.com/godeep to get free shipping on all water and merch",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/SIw0Wzqya7U/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/SIw0Wzqya7U/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/SIw0Wzqya7U/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/SIw0Wzqya7U/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/SIw0Wzqya7U/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 42,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "SIw0Wzqya7U"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "lAF6XIXIG9CSnSKbW_1Q4H5K30k",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4wMkM3QkFEQzQ4QTU0MTNB",
+			"snippet": {
+				"publishedAt": "2021-12-05T05:55:42Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad and JT #215 - Chad and JT",
+				"description": "What up Stokers! This week it's Chad and JT. We talk about Notre Dame, Seth Rogen, and beef liver. \n\n\n\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com\n\n\n\n\n\n\n\nGo to rumpl.com and enter code DEEP15 for 15% off your first order",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/NpBZnw2yGgY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/NpBZnw2yGgY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/NpBZnw2yGgY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/NpBZnw2yGgY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/NpBZnw2yGgY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 43,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "NpBZnw2yGgY"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "2xldK7dNhIYHQrSNuFNHa7Sy-_A",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi44RDBENkUzRTI5QTNGMTI4",
+			"snippet": {
+				"publishedAt": "2021-11-25T19:11:59Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep with Chad and JT #214 - Strider Wilson Joins",
+				"description": "What up Stokers! Strider is on this week. We talk Chris Parr's wedding. Succession, and Unforgiven.  \n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at manscaped.com\n\n\n\n\n\n\n\nGo to rumpl.com and enter code DEEP15 for 15% off your first order",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/b_4EbMZtpd0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/b_4EbMZtpd0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/b_4EbMZtpd0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/b_4EbMZtpd0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/b_4EbMZtpd0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 44,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "b_4EbMZtpd0"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "_Wp34Ur1jB1070lS__Zb_D4sBz0",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi5GNEUwNzhEMDZFMDNDQTM1",
+			"snippet": {
+				"publishedAt": "2021-11-19T22:44:59Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad and JT #213- Chad and JT",
+				"description": "What up Stokers! This week it's Chad and JT! \n\n\n\n\n\n\n\n\n\n\nBrought to you by Liquid Death! Get free shipping on all water and merch at LiquidDeath.com/GODEEP\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com\n\n\n\n\nGo to rumpl.com and enter code DEEP15 for 15% off your first order",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/9PUn8RErzKM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/9PUn8RErzKM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/9PUn8RErzKM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/9PUn8RErzKM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/9PUn8RErzKM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 45,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "9PUn8RErzKM"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "I-KIG0wTFjYTRhOSWmURACxT32Q",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi41RTFEM0JFNjc4MDNBMzA5",
+			"snippet": {
+				"publishedAt": "2021-11-13T03:04:02Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad and JT #212 - Strider Wilson and Chris Parr Join",
+				"description": "What up stokers?! We draft our top 5 action movies of all time. Good times with some legends. \n\n\n\n\nBrought to you by Liquid Death! Get free shipping on all water and merch at LiquidDeath.com/GODEEP\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com\n\n\n\n\nGo to rumpl.com and enter code DEEP15 for 15% off your first order",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/cHdGzkmn8co/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/cHdGzkmn8co/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/cHdGzkmn8co/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/cHdGzkmn8co/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/cHdGzkmn8co/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 46,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "cHdGzkmn8co"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "o3tAHmWamMLeXwaRhM6pB33yAH0",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi4zREM4MEQ5NkI0RDExOEYy",
+			"snippet": {
+				"publishedAt": "2021-11-04T16:19:04Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep With Chad and JT #211 - Strider Wilson Joins",
+				"description": "What up Stokers! We got Strider Wilson on the pod this week. Total beast.\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com\n\n\n\n\nHelix is offering up. to 200 dollars off all mattress orders AND two free pillows for our listeners at HelixSleep.com/GODEEP\n\n\n\n\nTune in to BetMGM Tonight presented by BetMGM for all the hot tips",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ndgCJtI7qSY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ndgCJtI7qSY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ndgCJtI7qSY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/ndgCJtI7qSY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/ndgCJtI7qSY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 47,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "ndgCJtI7qSY"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "2GJhfQSbSsEqNZSDu8wXBPXDbVA",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi41QUU4MjI2RjNBNjFENEY3",
+			"snippet": {
+				"publishedAt": "2021-10-28T02:01:33Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep with Chad and JT #210- Joe Marrese Joins",
+				"description": "What up Stokers! This week we have the big hog legend, Joe Marrese. He's moving to Austin, Texas next week. He'll be back on the pod but wish him well in his journey!\n\n\n\n\nGet 20% Off and Free Shipping with the code GODEEP at mansacped.com",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Mtwwhim-vHI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Mtwwhim-vHI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Mtwwhim-vHI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Mtwwhim-vHI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Mtwwhim-vHI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 48,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Mtwwhim-vHI"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "0MV7XpRBFTBowKZdD1hRmTQcPyk",
+			"id": "UExreHNYQ3pSZ3cwYVB3LWkzYVlYVC13TDBTSjE4aFJJTi40MzQwRDA4N0ZGRTNBNTE2",
+			"snippet": {
+				"publishedAt": "2021-10-21T17:07:17Z",
+				"channelId": "UCp6COGFcWCnEx9JbPIoYJLw",
+				"title": "Going Deep with Chad and JT #208- James Suzman",
+				"description": "What up stokers! This week we've got anthropologist, James Suzman, to talk about his new book \"work\". Enjoy!\n\n\n\n\n\n\n\nWe have an exclusive offer for our audience -- get 20% Off + Free Shipping, with the code [GODEEP] at Manscaped.com !\n\n\n\n\nIf you want to feel good knowing that your favorite on-the-go blanket is made sustainably using recycled materials so they care for the Earth, Go to rumple.com and enter code DEEP15 for 15% off your first order.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/d0d-yA-2-9o/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/d0d-yA-2-9o/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/d0d-yA-2-9o/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/d0d-yA-2-9o/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/d0d-yA-2-9o/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Chad and JT Go Deep",
+				"playlistId": "PLkxsXCzRgw0aPw-i3aYXT-wL0SJ18hRIN",
+				"position": 49,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "d0d-yA-2-9o"
+				},
+				"videoOwnerChannelTitle": "Chad and JT Go Deep",
+				"videoOwnerChannelId": "UCp6COGFcWCnEx9JbPIoYJLw"
+			}
 		}
 	],
 	"pageInfo": {
 		"totalResults": 277,
-		"resultsPerPage": 5
+		"resultsPerPage": 50
 	}
 }
