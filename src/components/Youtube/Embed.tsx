@@ -1,37 +1,26 @@
-import React from 'react';
-import { Box } from '@mui/material';
+import YouTube, { YouTubeProps } from 'react-youtube';
 
-interface YoutubeProps {
-	embedId: string;
+interface YoutubeEmbedProps {
+	videoId: string;
 }
 
-const YoutubeEmbed = (props: YoutubeProps) => (
-	<Box
-		className="video-responsive"
-		sx={{
-			overflow: 'hidden',
-			pb: '56.25%',
-			position: 'relative',
-			height: 0,
-			'& iframe, & object, & embed': {
-				left: 0,
-				top: 0,
-				height: '100%',
-				width: '100%',
-				position: 'absolute',
-			},
-		}}
-	>
-		<iframe
-			width="853"
-			height="480"
-			src={`https://www.youtube.com/embed/${props.embedId}`}
-			frameBorder="0"
-			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-			allowFullScreen
-			title="Embedded youtube"
-		/>
-	</Box>
-);
+const YoutubeEmbed = (props: YoutubeEmbedProps) => {
+	const onPlayerReady: YouTubeProps['onReady'] = event => {
+		// access to player in all event handlers via event.target
+		event.target.pauseVideo();
+	};
+	const opts: YouTubeProps['opts'] = {
+		height: '390',
+		width: '640',
+		playerVars: {
+			// https://developers.google.com/youtube/player_parameters
+			autoplay: 1,
+		},
+	};
+
+	return (
+		<YouTube videoId={props.videoId} opts={opts} onReady={onPlayerReady} />
+	);
+};
 
 export default YoutubeEmbed;

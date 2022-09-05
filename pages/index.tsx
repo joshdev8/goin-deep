@@ -3,53 +3,58 @@ import type { NextPage } from 'next';
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
-import Link from 'src/components/Link';
-import Image from 'next/image';
-import YoutubeEmbed from 'src/components/Youtube/Embed';
+import PodList from 'src/components/Pod/PodList';
 
 import sampleData from 'content/sample.json';
 
-const Home: NextPage = () => {
-	console.log(sampleData);
-	const { items } = sampleData;
-	const itemList = items.map(item => {
-		const {
-			id,
+interface PodData {
+	data: {
+		items: {
+			id: string;
 			snippet: {
-				title,
-				thumbnails,
-				description,
-				publishedAt,
-				resourceId: { videoId },
-			},
-		} = item;
-		return (
-			<Box key={id}>
-				<Typography variant="h6" component="h2">
-					{title}
-				</Typography>
-				<Typography variant="body1" component="p">
-					{publishedAt}
-				</Typography>
-				<Box
-					sx={{
-						width: '100%',
-						height: '100%',
-						display: 'flex',
-						justifyContent: 'center',
-					}}
-				>
-					{/* <img src={`${thumbnails.medium.url}`} alt="{title}" /> */}
-					<YoutubeEmbed embedId={videoId} />
-				</Box>
-				<Typography variant="body1" component="p">
-					{description}
-				</Typography>
-				<Link href={`https://www.youtube.com/watch?v=m-${videoId}`}>Watch</Link>
-			</Box>
-		);
-	});
+				title: string;
+				description: string;
+				imageUrl: string;
+				imageAlt: string;
+				publishedAt: string;
+				resourceId: { videoId: string };
+				thumbnails: {
+					default: {
+						url: string;
+						width: number;
+						height: number;
+					};
+					medium: {
+						url: string;
+						width: number;
+						height: number;
+					};
+					high: {
+						url: string;
+						width: number;
+						height: number;
+					};
+					standard?: {
+						url: string;
+						width: number;
+						height: number;
+					};
+					maxres: {
+						url: string;
+						width: number;
+						height: number;
+					};
+				};
+			};
+		}[];
+	};
+}
 
+const Home: NextPage = (props: PodData) => {
+	console.log('props', props);
+	const {
+		data: { items },
+	} = props;
 	return (
 		<Container maxWidth="lg">
 			<Box
@@ -64,10 +69,16 @@ const Home: NextPage = () => {
 				<Typography variant="h4" component="h1" gutterBottom>
 					Goin Deep with Chad and JT
 				</Typography>
-				{itemList}
+				<PodList items={items} />
 			</Box>
 		</Container>
 	);
 };
 
 export default Home;
+
+export async function getStaticProps() {
+	return {
+		props: { data: sampleData }, // will be passed to the page component as props
+	};
+}
