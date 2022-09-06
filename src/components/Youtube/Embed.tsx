@@ -10,8 +10,8 @@ const YoutubeEmbed = (props: YoutubeEmbedProps) => {
 		event.target.pauseVideo();
 	};
 	const opts: YouTubeProps['opts'] = {
-		height: '390',
-		width: '640',
+		height: '195',
+		width: '320',
 		playerVars: {
 			// https://developers.google.com/youtube/player_parameters
 			autoplay: 1,

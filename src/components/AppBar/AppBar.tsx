@@ -11,7 +11,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import Link from 'src/components/Link';
 
-const pages = ['home', 'projects', 'contact', 'blog'];
+const pages = ['home', 'contact'];
 
 const ResponsiveAppBar = () => {
 	const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(

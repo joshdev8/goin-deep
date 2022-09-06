@@ -26,7 +26,6 @@ interface PodItemProps {
 const PodItem = (props: PodItemProps) => {
 	const { title, description, publishedAt, videoId, thumbnails, id } =
 		props;
-	const [showPodTranscript, setShowPodTranscript] = React.useState(false);
 
 	const date = new Date(publishedAt);
 
@@ -91,31 +90,6 @@ const PodItem = (props: PodItemProps) => {
 				>
 					Watch on Youtube
 				</Button>
-				<Button
-					onClick={() => setShowPodTranscript(!showPodTranscript)}
-					sx={{ my: 2 }}
-					variant="contained"
-				>
-					{showPodTranscript ? 'Hide' : 'Show'} Pod Transcript
-				</Button>
-				{showPodTranscript && (
-					<Box
-						sx={{
-							width: '100%',
-							height: '100%',
-							display: 'flex',
-							justifyContent: 'center',
-						}}
-					>
-						{/* {podData.map((pod, index) => (
-							<Box key={index} sx={{}}>
-								<Typography variant="body1" component="p">
-									{pod.text}
-								</Typography>
-							</Box>
-						))} */}
-					</Box>
-				)}
 			</Paper>
 		</Box>
 	);

@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router';
 import * as React from 'react';
 import { getAllPodIds, getPodData } from 'src/helpers/pods';
-import { Box, Typography, Paper, List, LinearProgress } from '@mui/material';
+import { Box, Typography, Paper, LinearProgress } from '@mui/material';
 // import Highlighter from 'react-highlight-words';
 import YoutubeEmbed from 'src/components/Youtube/Embed';
 import Search from 'src/components/Search/Search';
@@ -34,6 +34,7 @@ interface Snippet {
 }
 
 const SingleItemPage = ({ item }: Item) => {
+	console.log(item);
 	const router = useRouter();
 	const id = router.query.podId;
 
@@ -45,34 +46,6 @@ const SingleItemPage = ({ item }: Item) => {
 		setSearchTerm(event.target.value);
 	};
 
-	// const itemText = itemJson[0].map((snip: Snippet) => {
-	// 	const { text, start } = snip;
-	// 	const fancyTime = fancyTimeFormat(parseInt(start));
-	// 	return (
-	// 		<Box key={start}>
-	// 			<Typography
-	// 				sx={{ color: 'darkgray' }}
-	// 				variant="subtitle1"
-	// 				component="p"
-	// 			>
-	// 				{fancyTime}
-	// 			</Typography>
-	// 			<Typography variant="body1" component="p">
-	// 				{text}
-	// 			</Typography>
-	// 		</Box>
-	// 	);
-	// });
-
-	// React.useEffect(() => {
-	// 	setTranscriptionText(getTranscription());
-	// 	if (searchTerm && searchTerm.length > 0) {
-	// 		const foundText = transcriptionText.match(searchTerm);
-	// 		console.log(foundText);
-	// 		setTranscriptionText(foundText);
-	// 	}
-	// }, [searchTerm])
-
 	if (!item) {
 		return <LinearProgress />;
 	}
@@ -80,8 +53,9 @@ const SingleItemPage = ({ item }: Item) => {
 	return (
 		<Box
 			sx={{
-				m: 3,
-				p: 3,
+				mx: 3,
+				px: 3,
+				py: 2,
 				display: 'flex',
 				flexDirection: 'column',
 				alignItems: 'center',
@@ -90,7 +64,8 @@ const SingleItemPage = ({ item }: Item) => {
 		>
 			<Box
 				sx={{
-					m: 4,
+					mx: 6,
+					px: 3,
 					display: 'flex',
 					flexDirection: 'column',
 					alignItems: 'center',
@@ -100,31 +75,23 @@ const SingleItemPage = ({ item }: Item) => {
 				{id && typeof id === 'string' && <YoutubeEmbed videoId={id} />}
 			</Box>
 			<Box sx={{ width: '100%' }}>
-				<Paper elevation={3} sx={{ m: 4 }}>
-					{/* <Highlighter
-					searchWords={[searchTerm]}
-					autoEscape={true}
-					textToHighlight={searchTerm}
-				/> */}
-					<Box sx={{ p: 2 }}>
-						<Search
-							handleChange={handleSearch}
-							handleClear={handleClear}
-							searchTerm={searchTerm}
-						/>
-					</Box>
+				<Paper elevation={4} sx={{ mx: 6, p: 1 }}>
+					<Search
+						handleChange={handleSearch}
+						handleClear={handleClear}
+						searchTerm={searchTerm}
+					/>
 				</Paper>
 			</Box>
-			<Box>
+			<Box sx={{ px: 4, mx: 2 }}>
 				<Paper
-					elevation={3}
-					sx={{ width: '100%', maxHeight: 500, overflow: 'auto', p: 4, m: 2 }}
+					elevation={4}
+					sx={{ width: '100%', maxHeight: 380, overflow: 'auto', p: 4, my: 3 }}
+				
 				>
-					<List>
-						<Typography variant="body1" component="p">
-							{item}
-						</Typography>
-					</List>
+					<Typography variant="body1" component="p">
+						{item}
+					</Typography>
 				</Paper>
 			</Box>
 		</Box>
@@ -147,14 +114,15 @@ export async function getStaticProps({
 }) {
 	const itemString = getPodData(params.podId);
 	const jsonItem = JSON.parse(itemString);
-	const textContent = jsonItem[0].map((snip: Snippet) => {
+	let transcriptString = '';
+	jsonItem[0].forEach((snip: Snippet) => {
 		const { text } = snip;
-		return text;
+		transcriptString += ' ' + text;
 	});
 
 	return {
 		props: {
-			item: textContent,
+			item: transcriptString,
 		},
 	};
 }
