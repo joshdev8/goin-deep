@@ -1,11 +1,10 @@
 import * as React from 'react';
-import type { NextPage } from 'next';
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import PodList from 'src/components/Pod/PodList';
 
-import sampleData from 'content/sample.json';
+import sampleData from 'public/content/sample.json';
 
 interface PodData {
 	data: {
@@ -50,8 +49,7 @@ interface PodData {
 	};
 }
 
-const Home: NextPage = (props: PodData) => {
-	console.log('props', props);
+const Home = (props: PodData) => {
 	const {
 		data: { items },
 	} = props;

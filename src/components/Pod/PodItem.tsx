@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Typography, Paper, Button } from '@mui/material';
 import Image from 'next/image';
 
@@ -23,7 +24,9 @@ interface PodItemProps {
 }
 
 const PodItem = (props: PodItemProps) => {
-	const { title, description, publishedAt, videoId, thumbnails, id } = props;
+	const { title, description, publishedAt, videoId, thumbnails, id } =
+		props;
+	const [showPodTranscript, setShowPodTranscript] = React.useState(false);
 
 	const date = new Date(publishedAt);
 
@@ -35,7 +38,10 @@ const PodItem = (props: PodItemProps) => {
 
 	// TODO: add a test for this
 	// only return text before 'Get 20%' of description
-	const truncatedDescription2 = description.slice(0, description.indexOf('Get 20%'));
+	const truncatedDescription2 = description.slice(
+		0,
+		description.indexOf('Get 20%')
+	);
 
 	return (
 		<Box key={id} sx={{ m: 2 }}>
@@ -85,6 +91,31 @@ const PodItem = (props: PodItemProps) => {
 				>
 					Watch on Youtube
 				</Button>
+				<Button
+					onClick={() => setShowPodTranscript(!showPodTranscript)}
+					sx={{ my: 2 }}
+					variant="contained"
+				>
+					{showPodTranscript ? 'Hide' : 'Show'} Pod Transcript
+				</Button>
+				{showPodTranscript && (
+					<Box
+						sx={{
+							width: '100%',
+							height: '100%',
+							display: 'flex',
+							justifyContent: 'center',
+						}}
+					>
+						{/* {podData.map((pod, index) => (
+							<Box key={index} sx={{}}>
+								<Typography variant="body1" component="p">
+									{pod.text}
+								</Typography>
+							</Box>
+						))} */}
+					</Box>
+				)}
 			</Paper>
 		</Box>
 	);

@@ -1,5 +1,6 @@
 import { Box } from '@mui/material';
 import PodItem from 'src/components/Pod/PodItem';
+import Link from 'src/components/Link';
 
 type Thumbnails = {
 	url: string;
@@ -44,16 +45,27 @@ const PodList = (props: PodListProps) => {
 						resourceId: { videoId },
 					},
 				} = item;
+
 				return (
-					<PodItem
+					<Link
+						href={{
+							pathname: '/pod/[podId]',
+							query: { podId: videoId },
+						}}
+						passHref
+						sx={{ width: '100%' }}
+						underline="none"
 						key={id}
-						id={id}
-						title={title}
-						description={description}
-						publishedAt={publishedAt}
-						videoId={videoId}
-						thumbnails={thumbnails}
-					/>
+					>
+						<PodItem
+							id={id}
+							title={title}
+							description={description}
+							publishedAt={publishedAt}
+							videoId={videoId}
+							thumbnails={thumbnails}
+						/>
+					</Link>
 				);
 			})}
 		</Box>
