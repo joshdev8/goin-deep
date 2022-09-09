@@ -1,4 +1,5 @@
 import YouTube, { YouTubeProps } from 'react-youtube';
+import { isMobile } from 'react-device-detect';
 
 interface YoutubeEmbedProps {
 	videoId: string;
@@ -10,8 +11,8 @@ const YoutubeEmbed = (props: YoutubeEmbedProps) => {
 		event.target.pauseVideo();
 	};
 	const opts: YouTubeProps['opts'] = {
-		height: '195',
-		width: '320',
+		height: isMobile ? '195' : '390',
+		width: isMobile ? '320' : '640',
 		playerVars: {
 			// https://developers.google.com/youtube/player_parameters
 			autoplay: 1,

@@ -34,7 +34,6 @@ interface Snippet {
 }
 
 const SingleItemPage = ({ item }: Item) => {
-	console.log(item);
 	const router = useRouter();
 	const id = router.query.podId;
 
@@ -87,7 +86,6 @@ const SingleItemPage = ({ item }: Item) => {
 				<Paper
 					elevation={4}
 					sx={{ width: '100%', maxHeight: 380, overflow: 'auto', p: 4, my: 3 }}
-				
 				>
 					<Typography variant="body1" component="p">
 						{item}

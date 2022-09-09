@@ -75,7 +75,6 @@ const PodItem = (props: PodItemProps) => {
 						src={`${thumbnails?.high?.url || thumbnails.medium.url}`}
 						alt={title}
 					/>
-					{/* <YoutubeEmbed videoId={videoId} /> */}
 				</Box>
 				<Typography variant="body1" component="p">
 					{truncatedDescription2}
