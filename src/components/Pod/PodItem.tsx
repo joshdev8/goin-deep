@@ -24,8 +24,7 @@ interface PodItemProps {
 }
 
 const PodItem = (props: PodItemProps) => {
-	const { title, description, publishedAt, videoId, thumbnails, id } =
-		props;
+	const { title, description, publishedAt, videoId, thumbnails, id } = props;
 
 	const date = new Date(publishedAt);
 
