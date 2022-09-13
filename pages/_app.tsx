@@ -4,13 +4,17 @@ import { AppProps } from 'next/app';
 import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { CacheProvider, EmotionCache } from '@emotion/react';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import theme from 'assets/theme';
 import createEmotionCache from 'src/createEmotionCache';
 import ResponsiveAppBar from 'src/components/AppBar/AppBar';
 import Copyright from 'src/components/Copyright';
+import '../styles/_app.scss';
 
 // Client-side cache, shared for the whole session of the user in the browser.
 const clientSideEmotionCache = createEmotionCache();
+
+const queryClient = new QueryClient();
 
 interface MyAppProps extends AppProps {
 	emotionCache?: EmotionCache;
@@ -26,7 +30,9 @@ const MyApp = (props: MyAppProps) => {
 			<ThemeProvider theme={theme}>
 				<CssBaseline />
 				<ResponsiveAppBar />
-				<Component {...pageProps} />
+				<QueryClientProvider client={queryClient}>
+					<Component {...pageProps} />
+				</QueryClientProvider>
 				<Copyright />
 			</ThemeProvider>
 		</CacheProvider>

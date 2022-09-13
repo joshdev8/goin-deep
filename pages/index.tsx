@@ -3,56 +3,41 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import PodList from 'src/components/Pod/PodList';
+import { useQuery } from '@tanstack/react-query';
+import { LinearProgress } from '@mui/material';
+import { Pod } from 'src/types/types';
 
-import sampleData from 'public/content/sample.json';
-
-interface PodData {
-	data: {
-		items: {
-			id: string;
-			snippet: {
-				title: string;
-				description: string;
-				imageUrl: string;
-				imageAlt: string;
-				publishedAt: string;
-				resourceId: { videoId: string };
-				thumbnails: {
-					default: {
-						url: string;
-						width: number;
-						height: number;
-					};
-					medium: {
-						url: string;
-						width: number;
-						height: number;
-					};
-					high: {
-						url: string;
-						width: number;
-						height: number;
-					};
-					standard?: {
-						url: string;
-						width: number;
-						height: number;
-					};
-					maxres: {
-						url: string;
-						width: number;
-						height: number;
-					};
-				};
-			};
-		}[];
-	};
-}
-
-const Home = (props: PodData) => {
+const Home = () => {
 	const {
-		data: { items },
-	} = props;
+		data,
+		isLoading,
+		error,
+	}: {
+		error: Error | null;
+		isLoading: boolean;
+		data?: { items: Pod[] } | null;
+	} = useQuery(
+		['pod'],
+		() =>
+			fetch('https://goin-deep.s3.amazonaws.com/sample.json').then(res =>
+				res.json()
+			),
+		{
+			refetchOnWindowFocus: false,
+		}
+	);
+
+	const markup = isLoading ? (
+		<div>
+			<div>Filling up the stoke tank...</div>
+			<LinearProgress />
+		</div>
+	) : error ? (
+		<div>Error: {error.message}</div>
+	) : data && data.items ? (
+		<PodList items={data.items} />
+	) : null;
+
 	return (
 		<Container maxWidth="lg">
 			<Box
@@ -65,18 +50,12 @@ const Home = (props: PodData) => {
 				}}
 			>
 				<Typography variant="h4" component="h1" gutterBottom>
-					Goin Deep with Chad and JT
+					Episode List
 				</Typography>
-				<PodList items={items} />
+				{markup}
 			</Box>
 		</Container>
 	);
 };
 
 export default Home;
-
-export async function getStaticProps() {
-	return {
-		props: { data: sampleData }, // will be passed to the page component as props
-	};
-}

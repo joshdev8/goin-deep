@@ -1,0 +1,8 @@
+.pod-list-items,
+.list-container {
+	height: 600px;
+
+	> div {
+		height: 100%;
+	}
+}

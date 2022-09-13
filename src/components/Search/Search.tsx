@@ -4,7 +4,7 @@ import {
 	InputLabel,
 	InputAdornment,
 	IconButton,
-	Box
+	Paper,
 } from '@mui/material';
 
 import ClearIcon from '@mui/icons-material/Clear';
@@ -12,17 +12,16 @@ import SearchIcon from '@mui/icons-material/Search';
 
 type Props = {
 	placeholderText?: string;
-	handleChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
+	handleSearchChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
 	handleClear: () => void;
 	searchTerm?: string;
 };
 
 const SearchField = ({
-	handleChange,
+	handleSearchChange,
 	handleClear,
-	searchTerm
+	searchTerm,
 }: Props): JSX.Element => {
-
 	const clearSearchIcon =
 		searchTerm && searchTerm.length > 0 ? (
 			<IconButton
@@ -32,8 +31,8 @@ const SearchField = ({
 				size="large"
 				sx={{
 					'&:hover': {
-						background: 'transparent'
-					}
+						background: 'transparent',
+					},
 				}}
 			>
 				<ClearIcon fontSize="small" />
@@ -45,8 +44,8 @@ const SearchField = ({
 				size="large"
 				sx={{
 					'&:hover': {
-						background: 'transparent'
-					}
+						background: 'transparent',
+					},
 				}}
 			>
 				<SearchIcon fontSize="small" />
@@ -54,7 +53,7 @@ const SearchField = ({
 		);
 
 	return (
-		<Box sx={theme => ({ p: theme.spacing(1, 2), width: '100%' })}>
+		<Paper elevation={4} sx={{ p: 2, m: 1, px: 3, width: '100%' }}>
 			<InputLabel htmlFor="search" />
 			<OutlinedInput
 				autoFocus
@@ -65,16 +64,16 @@ const SearchField = ({
 				id="search"
 				fullWidth
 				value={searchTerm}
-				onChange={handleChange}
+				onChange={handleSearchChange}
 				inputProps={{
-					'aria-label': 'search'
+					'aria-label': 'search',
 				}}
-				placeholder='SEARCH'
+				placeholder="SEARCH"
 				endAdornment={
 					<InputAdornment position="end">{clearSearchIcon}</InputAdornment>
 				}
 			/>
-		</Box>
+		</Paper>
 	);
 };
 

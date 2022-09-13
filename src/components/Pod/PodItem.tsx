@@ -36,13 +36,12 @@ const PodItem = (props: PodItemProps) => {
 
 	// TODO: add a test for this
 	// only return text before 'Get 20%' of description
-	const truncatedDescription2 = description.slice(
-		0,
-		description.indexOf('Get 20%')
-	);
+	const truncatedDescription = description
+		? description.slice(0, description.indexOf('Get 20%'))
+		: '';
 
 	return (
-		<Box key={id} sx={{ m: 2 }}>
+		<Box key={id} sx={{ m: 2, p: 2 }}>
 			<Paper
 				elevation={3}
 				sx={{
@@ -51,9 +50,12 @@ const PodItem = (props: PodItemProps) => {
 					width: '100%',
 					height: '100%',
 					p: 2,
+					'&:hover': {
+						boxShadow: 10,
+					},
 				}}
 			>
-				<Typography variant="h6" component="h2">
+				<Typography variant="h5" component="h2" sx={{ pt: 2 }}>
 					{title}
 				</Typography>
 				<Typography variant="body1" component="p">
@@ -77,7 +79,7 @@ const PodItem = (props: PodItemProps) => {
 					/>
 				</Box>
 				<Typography variant="body1" component="p">
-					{truncatedDescription2}
+					{truncatedDescription}
 				</Typography>
 				<Button
 					target="_blank"
