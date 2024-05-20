@@ -74,7 +74,7 @@
     "jest-environment-jsdom": "^29.0.3",
     "lint-staged": "^13.0.3",
     "node-notifier": "^10.0.1",
-    "prettier": "^2.7.1",
+    "prettier": "^3.2.5",
     "prettier-cli": "^0.1.0",
     "prettier-eslint": "^15.0.1",
     "prettier-eslint-cli": "^7.1.0",
